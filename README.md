@@ -1,8 +1,6 @@
 # Git Ready
----
 ## Author
 **Full Name:** Olena Molla
----
 ## Repository
 [GitHub Repo](https://github.com/olenamolla/Git-Ready.git)
 ## Screencast
