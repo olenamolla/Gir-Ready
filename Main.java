@@ -23,3 +23,4 @@ public class Main {
         System.out.println("User: " + userAgeStore.getKey() + ", Age: " + userAgeStore.getValue());
     }
 }
+
