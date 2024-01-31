@@ -1,8 +1,7 @@
 # Git Ready
-## Author
 **Full Name:** Olena Molla
-[GitHub Repo] (https://github.com/olenamolla/Git-Ready.git)
+[GitHub Repo](https://github.com/olenamolla/Git-Ready.git)
 [Screencast on Youtube](https://www.youtube.com/watch?v=1bm9YqgTIKs)
-###Tools Used
+### Tools Used
 **Screencast Software:** OBS Studio 30.0.2
 **IDE:** Visual Studio Code 1.85.2
