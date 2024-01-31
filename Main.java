@@ -16,7 +16,7 @@ public class Main {
         Container<String> noteContainer = new Container<>();
         noteContainer.setItem("Remember to buy bread");
         System.out.println("Note Container says: " + noteContainer.getItem());
-        
+        System.out.println("Extra piece of code here!");
         
         // Using KeyValueStore with String and Integer for a user's age
         KeyValueStore<String, Integer> userAgeStore = new KeyValueStore<>("Alice", 30);
